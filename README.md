@@ -12,7 +12,7 @@ Strategy Action Front Leg Back Leg
 Flattener Sell Spread Short Long
 Steepener Buy Spread Long Short
 
-In this project, you will evaluate the performance of the 10 yr - 2 yr U.S. Treasury yield
+In this project, evaluate the performance of the 10 yr - 2 yr U.S. Treasury yield
 curve spread trade.
 1. You can choose either the 10yr - 2yr U.S. Treasury flattener or steepener strategy to
 analyze and stay with this strategy throughout the sample.
